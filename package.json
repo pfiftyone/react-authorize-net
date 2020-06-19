@@ -2,8 +2,8 @@
   "name": "react-authorize-net",
   "version": "0.5.7",
   "description": "React integration for Authorize.Net",
-  "main": "dist/react-authorize-net.js",
-  "module": "dist/react-authorize-net.js",
+  "main": "dist/react-authorize-net.cjs",
+  "module": "dist/react-authorize-net.cjs",
   "typings": "types/index.d.ts",
   "scripts": {
     "authors": "shelljs-authors > AUTHORS",

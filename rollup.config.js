@@ -53,7 +53,7 @@ const config = {
   input: './src/index.ts',
   external: getExternal(),
   output: {
-    file: 'dist/react-authorize-net.js',
+    file: 'dist/react-authorize-net.cjs',
     format: 'es',
     name: 'react-authorize-net',
     sourcemap: true
